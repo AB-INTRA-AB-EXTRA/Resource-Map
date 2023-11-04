@@ -1,0 +1,88 @@
+[
+	{
+		"AutoSpawnEveryUTCInterval": 14400,
+		"AutoSpawnShipClass": "Blueprint'/Game/Atlas/ShipPaths/PathFollowingGhostShip_BP.PathFollowingGhostShip_BP'",
+		"Nodes": [
+			{
+				"controlPointsDistance": 852883.3,
+				"rotation": 7.584221,
+				"worldX": 2268640.75,
+				"worldY": 524215.344
+			},
+			{
+				"controlPointsDistance": 460000.031,
+				"rotation": 29.744873,
+				"worldX": 4492842,
+				"worldY": 664452.8
+			},
+			{
+				"controlPointsDistance": 590407,
+				"rotation": -235.347412,
+				"worldX": 4858654,
+				"worldY": 2001065.13
+			},
+			{
+				"controlPointsDistance": 719161.6,
+				"rotation": -228.26712,
+				"worldX": 4800411.5,
+				"worldY": 4776972
+			},
+			{
+				"controlPointsDistance": 791518.9,
+				"rotation": 205.195129,
+				"worldX": 2482047,
+				"worldY": 4911288
+			},
+			{
+				"controlPointsDistance": 563809.8,
+				"rotation": -476.029663,
+				"worldX": 493591.8,
+				"worldY": 4659201.5
+			},
+			{
+				"controlPointsDistance": 1153400,
+				"rotation": -86.4496155,
+				"worldX": 974918,
+				"worldY": 2617663.75
+			},
+			{
+				"controlPointsDistance": 342977.969,
+				"rotation": -51.7090454,
+				"worldX": 888546,
+				"worldY": 957099.6
+			}
+		],
+		"PathId": 1,
+		"PathName": "GhostShip",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 14400,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 523582.563,
+				"rotation": -470.2014,
+				"worldX": 240676.3,
+				"worldY": 646205.75
+			},
+			{
+				"controlPointsDistance": 441452.1,
+				"rotation": -3.924591,
+				"worldX": 562362.7,
+				"worldY": 67483.52
+			},
+			{
+				"controlPointsDistance": 233368.672,
+				"rotation": 80.32608,
+				"worldX": 1038049.81,
+				"worldY": 391844.6
+			}
+		],
+		"PathId": 2,
+		"PathName": "NW Merchant Ship",
+		"autoSpawn": true,
+		"isLooping": false
+	}
+]
